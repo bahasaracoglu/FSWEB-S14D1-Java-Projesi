@@ -1,4 +1,4 @@
-package com.workintech;
+package com.workintech.circle;
 
 public class Cylinder extends Circle {
 

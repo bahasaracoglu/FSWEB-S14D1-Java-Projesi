@@ -1,4 +1,4 @@
-package com.workintech;
+package com.workintech.circle;
 
 public class Circle {
     private double radius;

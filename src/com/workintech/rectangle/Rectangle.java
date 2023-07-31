@@ -1,4 +1,4 @@
-package com.workintech;
+package com.workintech.rectangle;
 
 public class Rectangle {
     private int width;

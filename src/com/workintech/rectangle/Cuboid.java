@@ -1,4 +1,4 @@
-package com.workintech;
+package com.workintech.rectangle;
 
 public class Cuboid extends Rectangle {
     private int height;

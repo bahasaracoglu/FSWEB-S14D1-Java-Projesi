@@ -1,8 +1,13 @@
 package com.workintech;
 
+import com.workintech.circle.Circle;
+import com.workintech.circle.Cylinder;
+import com.workintech.rectangle.Cuboid;
+import com.workintech.rectangle.Rectangle;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("------com.workintech.Circle & com.workintech.Cylinder ------");
+        System.out.println("------com.workintech.circle.Circle & com.workintech.circle.Cylinder ------");
 
 
         Circle circle = new Circle(3.75);
